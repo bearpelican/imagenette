@@ -144,10 +144,10 @@ Generally you'll see +/- 1% differences from run to run since it's quite a small
 
 | Size (px) | Epochs | URL | Accuracy | # Runs |
 |--|--|--|--|--|
-|128|5|[Inpainting](https://github.com/JoshVarty/SelfSupervisedLearning/blob/7d292979ae4bbf8422e710b5aeabc5131d0f83a0/01_InpaintingImageWang/03_ImageWang_Leadboard_128.ipynb)|NA| 5 |
-|128|20|[Inpainting](https://github.com/JoshVarty/SelfSupervisedLearning/blob/7d292979ae4bbf8422e710b5aeabc5131d0f83a0/01_InpaintingImageWang/03_ImageWang_Leadboard_128.ipynb)|NA|3|
-|128|80|[Inpainting](https://github.com/JoshVarty/SelfSupervisedLearning/blob/7d292979ae4bbf8422e710b5aeabc5131d0f83a0/01_InpaintingImageWang/03_ImageWang_Leadboard_128.ipynb)|NA|1|
-|128|200|[Inpainting](https://github.com/JoshVarty/SelfSupervisedLearning/blob/7d292979ae4bbf8422e710b5aeabc5131d0f83a0/01_InpaintingImageWang/03_ImageWang_Leadboard_128.ipynb)|NA|1|
+|128|5|[ContrastiveLearning](https://github.com/WAMRI-AI/imagewang/blob/b3ae0248d67eb7c3ceb996e496e66afa0fbc9e7d/01_ImageWang_ContrastLearning_128.ipynb)|50.78%| 5,mean|
+|128|20|[ContrastiveLearning](https://github.com/WAMRI-AI/imagewang/blob/b3ae0248d67eb7c3ceb996e496e66afa0fbc9e7d/01_ImageWang_ContrastLearning_128.ipynb)|56.86%|3,mean|
+|128|80|[ContrastiveLearning](https://github.com/WAMRI-AI/imagewang/blob/b3ae0248d67eb7c3ceb996e496e66afa0fbc9e7d/01_ImageWang_ContrastLearning_128.ipynb)|57.47%|1|
+|128|200|[ContrastiveLearning](https://github.com/WAMRI-AI/imagewang/blob/b3ae0248d67eb7c3ceb996e496e66afa0fbc9e7d/01_ImageWang_ContrastLearning_128.ipynb)|56.78%|1|
 |192|5|[ContrastiveLearning](https://github.com/WAMRI-AI/imagewang/blob/d575c7e6d531ec14ec10e545c6e672f87e3d5953/02_ImageWang_ContrastLearning_final_192.ipynb)|64.81%|5,mean|
 |192|20|[ContrastiveLearning](https://github.com/WAMRI-AI/imagewang/blob/d575c7e6d531ec14ec10e545c6e672f87e3d5953/02_ImageWang_ContrastLearning_final_192.ipynb)|68.36%|3,mean|
 |192|80|[ContrastiveLearning](https://github.com/WAMRI-AI/imagewang/blob/d575c7e6d531ec14ec10e545c6e672f87e3d5953/02_ImageWang_ContrastLearning_final_192.ipynb)|68.31%|1|
